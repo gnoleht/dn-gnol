@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LV.Db.Common\LV.Db.Common.csproj" />
+    <ProjectReference Include="..\LV.Db.PostgreSQL\LV.Db.PostgreSQL.csproj" />
+  </ItemGroup>
+
+</Project>

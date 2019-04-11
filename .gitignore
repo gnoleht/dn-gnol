@@ -1,0 +1,10 @@
+/.vs/
+.vs/
+/LV.Db.SQLServer/bin/
+/LV.Db.SQLServer/obj/
+/LV.Db.PostgreSQL/bin/
+/LV.Db.PostgreSQL/obj/
+/LV.Db.Common/bin/
+/LV.Db.Common/obj/
+/LV.Db.Mongo/obj/
+/LV.Db.Mongo/bin/
